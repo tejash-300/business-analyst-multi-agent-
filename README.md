@@ -143,7 +143,4 @@ Feel free to open an issue or start a discussion on GitHub if you have questions
 
 ```
 
----
 
-Let me know if you'd like me to generate a matching `requirements.txt` or include sample API usage examples in the README.
-```
